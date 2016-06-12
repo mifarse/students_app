@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1458826227 source:/home/mifarse/students_app/students_app/main.cpp
+	"structures.h"
+	"groups.h"
+	"students.h"
+	"files.h"
+	"flow.h"
+
+1458768529 /home/mifarse/students_app/students_app/groups.h
+
+1458826138 source:/home/mifarse/students_app/students_app/groups.cpp
+	"structures.h"
+	"groups.h"
+	"students.h"
+
+1458827044 source:/home/mifarse/students_app/students_app/files.cpp
+	"structures.h"
+	"groups.h"
+	"students.h"
+	"files.h"
+
+1458511126 /home/mifarse/students_app/students_app/files.h
+
+1458826023 /home/mifarse/students_app/students_app/structures.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<ctime>
+
+1458819032 source:/home/mifarse/students_app/students_app/students.cpp
+	"structures.h"
+	"students.h"
+
+1458223732 /home/mifarse/students_app/students_app/students.h
+	"groups.h"
+
+1457983554 source:/home/mifarse/students_app/students_app/flow.cpp
+	"structures.h"
+	"flow.h"
+	"students.h"
+
+1457977069 /home/mifarse/students_app/students_app/flow.h
+	"groups.h"
+
